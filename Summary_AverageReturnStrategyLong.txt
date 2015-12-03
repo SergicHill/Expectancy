@@ -1,0 +1,2 @@
+   ExpectedReturnStrLong,                       N,                     sum 
+ -0.00003757188371267817,                    20.00,                    -0.00, 
